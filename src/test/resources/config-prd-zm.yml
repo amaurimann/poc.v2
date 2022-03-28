@@ -1,0 +1,13 @@
+url-config:
+  baseURI: "https://app.zenvia.com"
+
+user-config:
+  email: "amauri.mann@zenvia.com"
+  password: "Escolas6110@%"
+
+postgre-config:
+  user: "svc_grafana"
+  databasename: "hlg-zcc-dc02-z1"
+  password: "MGJkrJQEKWXK"
+  host: "hlg-zcc-dc02-z1-postgresql01.lan.zenvia360.com"
+  auth_source: "admin"

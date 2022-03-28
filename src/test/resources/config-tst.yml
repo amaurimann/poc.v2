@@ -1,0 +1,21 @@
+url-config:
+ baseURI: "https://cpaas-hlg.lan.zenvia360.com/campaign/contacts"
+# baseURI: "https://cpaas-hlg.lan.zenvia360.com/welcome"
+# baseURI: "https://cpaas-hlg.lan.zenvia360.com"
+# baseURI: "https://www.zenvia.com/"
+# baseURI: "http://app.zenvia.com"
+
+user-config:
+  email: "amauri.mann@zenvia.com"
+# email: "mr.robot@robots-hlg.com"
+  password: "Escolas6110@%"
+#  password: "Zenvia@2020"
+# email: "mr.robot@robots.com"
+# password: "Zenvia@2020"
+
+postgre-config:
+  user: "svc_grafana"
+  password: "MGJkrJQEKWXK"
+  databasename: "hlg-zcc-dc02-z1"
+  host: "hlg-zcc-dc02-z1-postgresql01.lan.zenvia360.com"
+  auth_source: "admin"
